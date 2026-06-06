@@ -1,0 +1,21 @@
+file,column,description
+customer_journey_touchpoints.csv,user_id,Anonymous user identifier
+customer_journey_touchpoints.csv,touchpoint_id,Unique touchpoint identifier
+customer_journey_touchpoints.csv,touchpoint_time,Timestamp of marketing or web touchpoint
+customer_journey_touchpoints.csv,channel,Marketing channel
+customer_journey_touchpoints.csv,campaign,Campaign name
+customer_journey_touchpoints.csv,device_type,Customer device type
+customer_journey_touchpoints.csv,country,Customer country
+customer_journey_touchpoints.csv,touchpoint_position,Touchpoint sequence number
+customer_journey_touchpoints.csv,total_touchpoints,Total touchpoints in journey
+customer_journey_touchpoints.csv,converted,"1 if user converted, else 0"
+customer_journey_touchpoints.csv,conversion_id,Order/conversion identifier
+customer_journey_touchpoints.csv,revenue_gbp,Conversion revenue in GBP
+customer_journey_touchpoints.csv,media_cost_gbp,Estimated media cost for the touchpoint
+conversions.csv,conversion_id,Order/conversion identifier
+conversions.csv,user_id,Anonymous user identifier
+conversions.csv,conversion_time,Timestamp of conversion
+conversions.csv,revenue_gbp,Conversion revenue in GBP
+conversions.csv,device_type,Customer device type
+conversions.csv,country,Customer country
+conversions.csv,touchpoints_before_conversion,Number of touchpoints before conversion

@@ -1,0 +1,9 @@
+channel,total_touches,converted_touches,total_media_cost_gbp,touch_conversion_rate
+Affiliate,1184,269,1359.25,0.23
+Direct,3214,776,69.49,0.24
+Display,1859,451,1079.56,0.24
+Email,2382,563,98.9,0.24
+Organic Search,4933,1135,620.39,0.23
+Paid Search,4328,979,6627.94,0.23
+Paid Social,3619,836,3613.11,0.23
+Referral,845,197,70.11,0.23

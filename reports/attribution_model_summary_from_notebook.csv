@@ -1,0 +1,41 @@
+channel,attributed_revenue_gbp,attributed_conversions,touches,media_cost_gbp,model,roas
+Affiliate,6862.15,58.0,269,315.61,first_touch,21.74
+Direct,17419.44,143.0,776,16.83,first_touch,1035.02
+Display,22495.98,204.0,451,260.44,first_touch,86.38
+Email,13086.39,110.0,563,23.38,first_touch,559.73
+Organic Search,38049.22,344.0,1135,142.14,first_touch,267.69
+Paid Search,21226.57,190.0,979,1506.83,first_touch,14.09
+Paid Social,29987.61,263.0,836,834.72,first_touch,35.93
+Referral,3994.2,45.0,197,16.29,first_touch,245.19
+Affiliate,4868.19,54.0,269,315.61,last_touch,15.42
+Direct,33804.02,294.0,776,16.83,last_touch,2008.56
+Display,6565.85,59.0,451,260.44,last_touch,25.21
+Email,29033.87,227.0,563,23.38,last_touch,1241.83
+Organic Search,24182.87,221.0,1135,142.14,last_touch,170.13
+Paid Search,32752.6,308.0,979,1506.83,last_touch,21.74
+Paid Social,17558.61,155.0,836,834.72,last_touch,21.04
+Referral,4355.55,39.0,197,16.29,last_touch,267.38
+Affiliate,7281.93,71.1,269,315.61,linear,23.07
+Direct,24273.94,205.92,776,16.83,linear,1442.3
+Display,12470.9,112.63,451,260.44,linear,47.88
+Email,18239.25,147.17,563,23.38,linear,780.12
+Organic Search,32165.48,290.42,1135,142.14,linear,226.29
+Paid Search,28831.35,260.64,979,1506.83,linear,19.13
+Paid Social,24450.54,215.74,836,834.72,linear,29.29
+Referral,5408.18,53.38,197,16.29,linear,331.99
+Affiliate,6114.45,59.02,269,315.61,position_based,19.37
+Direct,24300.51,205.82,776,16.83,position_based,1443.88
+Display,13479.49,121.65,451,260.44,position_based,51.76
+Email,19418.76,156.24,563,23.38,position_based,830.57
+Organic Search,30409.05,274.59,1135,142.14,position_based,213.94
+Paid Search,26690.77,243.98,979,1506.83,position_based,17.71
+Paid Social,23477.94,206.27,836,834.72,position_based,28.13
+Referral,4441.95,44.24,197,16.29,position_based,272.68
+Affiliate,6545.34,66.17,269,315.61,time_decay,20.74
+Direct,28557.71,243.58,776,16.83,time_decay,1696.83
+Display,9033.52,82.38,451,260.44,time_decay,34.69
+Email,22473.44,179.65,563,23.38,time_decay,961.23
+Organic Search,28777.55,259.35,1135,142.14,time_decay,202.46
+Paid Search,31268.49,286.79,979,1506.83,time_decay,20.75
+Paid Social,21249.39,189.57,836,834.72,time_decay,25.46
+Referral,5216.11,49.51,197,16.29,time_decay,320.2
