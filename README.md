@@ -4,7 +4,6 @@
 
 This project analyzes multi-touch customer journeys and compares multiple marketing attribution models to understand how different channels contribute to conversions and revenue.
 
-It is designed as a realistic **Digital Analytics / Marketing Analytics / Customer Journey Analytics** portfolio project.
 
 ## Business Problem
 
